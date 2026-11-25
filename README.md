@@ -64,5 +64,90 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-ActRecipe is a company surfaced via the API Evangelist harvest backlog (source: g2-catalog) and added to the network as a stub for full-pipeline profiling.
-- https://actrecipe.com/
+ActRecipe is a Japanese iPaaS platform that enables businesses to automate workflows by connecting SaaS applications through customizable "recipes". It offers features such as SaaS integration, task reminders, bank API connections, and back‑office process automation. The service provides a visual interface for building integrations, supports multiple languages, and includes pricing plans for various company sizes. ActRecipe aims to simplify complex system integrations for IT teams and non‑technical users alike, helping to streamline operations and improve efficiency across departments.
+
+**Areas:** Company · iPaaS · Automation · SaaS Integration · Japanese
+
+## ActRecipe on APIs.io
+
+Everything profiled for ActRecipe is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/actrecipe/](https://apis.io/providers/actrecipe/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [ActRecipe Domain Security](https://apis.io/security/actrecipe/actrecipe-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://actrecipe.com/)
+- [Documentation](https://www.actrecipe.com/features/)
+- [Support](https://support.actrecipe.com/)
+- [Blog](https://www.actrecipe.com/news/)
+- [Privacy policy](https://www.actrecipe.com/privacy-policy/)
+- [GitHub](https://github.com/actrecipe)
+
+## API Evangelist rating
+
+**Kin Score 13.9** — emerging · rubric 0.28.1 · scored 2026-11-21
+
+| Facet | Score |
+|---|---|
+| Discoverability | 50.0 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 4.8 |
+| Developer ergonomics | 26.2 |
+| Access clarity | 23.4 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
+
+**Regulatory alignment 3.9** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/actrecipe/](https://apis.io/providers/actrecipe/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for ActRecipe: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/actrecipe/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
